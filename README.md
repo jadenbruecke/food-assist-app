@@ -3,4 +3,6 @@
 A Python (PyQt) App for providing assistance in food processing
 
 # hint
-Need to be used with Android App for activity recognition
+This app needs to be working together with:
+- Android App for activity recognition
+- Intel RealSense Depth Camera for visual input
